@@ -6,7 +6,7 @@ import os
 import time
 import unittest
 
-MAX_WAIT = 1
+MAX_WAIT = 10
 
 class NewVisitorTest(StaticLiveServerTestCase):
 
